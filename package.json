@@ -1,0 +1,22 @@
+{
+  "name": "@pkg6/jshelper",
+  "version": "0.0.1",
+  "description": "A tool library to help backend programmers improve frontend work efficiency",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkg6/js-helper.git"
+  },
+  "keywords": [
+    "js-helper",
+    "typescript",
+    "util",
+    "utility",
+    "functions"
+  ],
+  "author": "zhiqiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkg6/js-helper/issues"
+  },
+  "homepage": "https://github.com/pkg6/js-helper#readme"
+}
